@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eric Phan</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles.</h3>
-<h3 align="center">Open to opportunities!</h3>
+<h3 align="center">Open for opportunities :blush:</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/eric-phan](https://github.com/eric-phan)
