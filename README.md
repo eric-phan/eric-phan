@@ -6,7 +6,7 @@
 </div>
 
 <h3 align="left">About me:</h3>
-- :man_technologist: A passionate full-stack developer from Los Angeles.
+- A passionate full-stack developer from Los Angeles.
 
 - 👨‍💻 All of my projects are available at [https://github.com/eric-phan](https://github.com/eric-phan)
 
