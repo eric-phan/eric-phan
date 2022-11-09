@@ -7,14 +7,12 @@
 
 <h3 align="left">About me:</h3>
 
-- 📫 A passionate full-stack developer from Los Angeles.
-- A passionate full-stack developer from Los Angeles.
+- 👨‍💻 A passionate full-stack developer from Los Angeles.
 
-- 👨‍💻 All of my projects are available at [https://github.com/eric-phan](https://github.com/eric-phan)
+- :open_file_folder: All of my projects are available at [https://github.com/eric-phan](https://github.com/eric-phan)
 
-- 📫 How to reach me **ericphan42@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/eric-p-uci/](https://www.linkedin.com/in/eric-p-uci/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eric-p-uci/)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eric-phan&theme=dark&background=000000)](https://git.io/streak-stats)
