@@ -1,9 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Eric Phan</h1>
-<h3 align="center">Open for opportunities :blush:</h3>
+<h1 align="center">Hi 👋, I'm Eric</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <h3 align="left">About me:</h3>
-- A passionate full-stack developer from Los Angeles.
+- :man_technologist: A passionate full-stack developer from Los Angeles.
 
 - 👨‍💻 All of my projects are available at [https://github.com/eric-phan](https://github.com/eric-phan)
 
