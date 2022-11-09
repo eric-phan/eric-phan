@@ -5,14 +5,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h3 align="left">About me:</h3>
+<h3 align="left"> 👨‍💻 About me:</h3>
 
-- 👨‍💻 A passionate full-stack developer from Los Angeles.
+ I am passionate full-stack developer from Los Angeles.
 
-- :open_file_folder: All of my projects are available at [https://github.com/eric-phan](https://github.com/eric-phan)
+- :open_file_folder: All of my projects are available at [![Github Badge](https://img.shields.io/badge/Github-gray?logo=github&logoColor=white)](https://github.com/eric-phan)
 
-[![Github Badge](https://img.shields.io/badge/Github-gray?logo=github&logoColor=white)](https://github.com/eric-phan)
-
+- :ping_pong: When I am not progamming I love to play table tennis!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Eric%20Phan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eric-p-uci/)
 
