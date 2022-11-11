@@ -7,7 +7,7 @@
 
 <h3 align="left"> 👨‍💻 About me:</h3>
 
- I am passionate full-stack developer from Los Angeles.
+ I am a full-stack developer from Los Angeles.
 
 - :open_file_folder: All of my projects are available at [![Github Badge](https://img.shields.io/badge/Github-gray?logo=github&logoColor=white)](https://github.com/eric-phan)
 
