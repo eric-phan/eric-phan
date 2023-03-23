@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Eric, welcome to my GitHub</h1>
-<h2 align="center">I'm a 🌆: Los Angeles based software engineer coding full-stack Javascript applications.</h3>
+<h2 align="center">I'm a 🌇 Los Angeles based software engineer coding full-stack Javascript applications.</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
