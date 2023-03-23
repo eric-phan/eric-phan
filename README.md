@@ -8,6 +8,8 @@
 <h3 align="left"> 👨‍💻 About me:</h3>
 
  I am a full-stack developer from Los Angeles.
+ 
+- :construction: I’m currently working on **BrightSide** ([Github repo](https://github.com/eric-phan/brightside))
 
 - :open_file_folder: All of my projects are available at [![Github Badge](https://img.shields.io/badge/Github-gray?logo=github&logoColor=white)](https://github.com/eric-phan)
 
