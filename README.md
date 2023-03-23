@@ -10,6 +10,7 @@
  I am a full-stack developer from Los Angeles.
  
 - :construction: I’m currently working on **BrightSide** ([Github repo](https://github.com/eric-phan/brightside))
+- 💭 I'm currently improving my **React** skills and experimenting with **Next.js** and **Nest.js**.
 
 - :open_file_folder: All of my projects are available at [![Github Badge](https://img.shields.io/badge/Github-gray?logo=github&logoColor=white)](https://github.com/eric-phan)
 
