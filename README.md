@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Eric.</h1>
+<h1 align="center">Hi 👋, I'm Eric, welcome to my GitHub</h1>
+<h2 align="center">I'm a 🌆: Los Angeles based software engineer coding full-stack Javascript applications.</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -7,7 +8,6 @@
 
 <h3 align="left"> 👨‍💻 About me:</h3>
 
- I am a full-stack developer from Los Angeles.
  
 - :construction: I’m currently working on **BrightSide** ([Github repo](https://github.com/eric-phan/brightside))
 - 💭 I'm currently improving my **React** skills and experimenting with **Next.js** and **Nest.js**.
