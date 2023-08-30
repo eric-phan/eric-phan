@@ -14,7 +14,7 @@
 
 - :open_file_folder: All of my projects are available at [![Github Badge](https://img.shields.io/badge/Github-gray?logo=github&logoColor=white)](https://github.com/eric-phan)
 
-- :ping_pong: When I am not progamming I love to play table tennis!
+- :ping_pong: When I am not programming I love to play table tennis!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Eric%20Phan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eric-p-uci/)
 
